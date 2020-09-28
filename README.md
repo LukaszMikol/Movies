@@ -1,5 +1,5 @@
 # Movies
-<h1><b>Web Scraping (Scrappy), analysis movies datasets using library as Pandas, Seaborn, Matplotlib and predict future box office for movies (Regression) </b> - practical project</h1>
+<h1><b>Web Scraping (Scrappy), analysis of movie datasets using library as Pandas, Seaborn, Matplotlib and predict future box office for movies (Regression) </b> - practical project</h1>
 
 
 <ol>
